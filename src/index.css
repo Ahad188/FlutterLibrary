@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.b{
+     border: 2px solid red;
+}
+.b2{
+     border: 2px solid rgb(64, 255, 0);
+}
