@@ -1,7 +1,13 @@
+import Clamber from "../Clamber/Clamber";
+import Header from "../Header/Header";
+
  
 
 export default function RightSide() {
   return (
-    <div>RightSide</div>
+    <>
+     <Header></Header>
+     <Clamber></Clamber>
+    </>
   )
 }
