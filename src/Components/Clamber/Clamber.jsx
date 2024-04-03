@@ -1,6 +1,6 @@
 export default function Clamber() {
   return (
-    <div className="b2 mt-[30px]">
+    <div className=" mt-[30px]">
       <h1 className="text-center text-[40px] leading-[52px] font-[400] text-[#111111]">
         Build your next App <br /> even faster!
       </h1>
