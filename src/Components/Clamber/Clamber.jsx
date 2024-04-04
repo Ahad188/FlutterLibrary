@@ -1,6 +1,6 @@
 export default function Clamber() {
   return (
-    <div className=" mt-[30px]">
+    <section className=" mt-[30px]">
       <h1 className="text-center text-[40px] leading-[52px] font-[400] text-[#111111]">
         Build your next App <br /> even faster!
       </h1>
@@ -8,6 +8,6 @@ export default function Clamber() {
         Beautifully designed, expertly crafted Flutter components and templates, to jumpstart <br />
         your projects and speed up your development process.
       </p>
-    </div>
+    </section>
   );
 }

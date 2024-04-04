@@ -7,7 +7,7 @@ import tv6 from '../../assets/TV-6.png'
 
 export default function Templates() {
   return (
-    <div className="mt-[20px]">
+    <section className="mt-[20px]">
      <h2 className="text-[24px] leading-[24px] font-[400] text-[#111111]">Templates</h2>
      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 my-5">
           <div className="w-[398px] rounded-[12px]">
@@ -84,7 +84,7 @@ export default function Templates() {
           </div>
 
      </div>
-     </div>
+     </section>
   )
 }
 

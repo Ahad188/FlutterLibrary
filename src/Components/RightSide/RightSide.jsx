@@ -1,6 +1,7 @@
 import Article from "../Article/Article";
 import Clamber from "../Clamber/Clamber";
 import Header from "../Header/Header";
+import Screen from "../Screen/Screen";
 import Templates from "../Templates/Templates";
 
  
@@ -12,6 +13,7 @@ export default function RightSide() {
      <Clamber></Clamber>
      <Templates></Templates>
      <Article></Article>
+     <Screen></Screen>
     </>
   )
 }
