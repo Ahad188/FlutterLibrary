@@ -11,7 +11,7 @@ function App() {
        <div className='w-[180px] '>
           <LeftSide></LeftSide>
        </div>
-       <div className='b w-full'>
+       <div className=' w-full'>
           <RightSide></RightSide>
        </div>
     </div>

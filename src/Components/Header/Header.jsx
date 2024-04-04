@@ -3,7 +3,7 @@
  export default function Header() {
    return (
      <div className="flex justify-between mt-5 px-10">
-           <div className=" h-[48px] rounded-xl bg-[#F0F0F0] flex items-center gap-4 py-[16px] px-10">
+           <div className=" h-[48px] rounded-xl bg-[#F0F0F0] flex items-center py-[16px] px-10">
                <i className="my-icon icon-search"></i>
                <input className="rounded-xl bg-[#F0F0F0] px-5 focus:outline-none" type="search" name="" id="" placeholder="search here" />
           </div>

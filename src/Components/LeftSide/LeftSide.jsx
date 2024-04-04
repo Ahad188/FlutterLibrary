@@ -72,27 +72,27 @@ export default function LeftSide() {
           All Screens
         </li>
         <li className="my-4 flex justify-between text-[#989898] hover:text-[#111111]">
-          <span className=" text-[14px] leading-[18px] font-[400]">Sing In</span>
+          <span className=" text-[14px] leading-[18px] font-[400] cursor-pointer">Sing In</span>
           <span className=" text-[14px] leading-[18px] font-[400]">10</span>
         </li>
         <li className="my-4 flex justify-between text-[#989898] hover:text-[#111111]">
-          <span className=" text-[14px] leading-[18px] font-[400]">Chat</span>
+          <span className=" text-[14px] leading-[18px] font-[400] cursor-pointer">Chat</span>
           <span className=" text-[14px] leading-[18px] font-[400]">5</span>
         </li>
         <li className="my-4 flex justify-between text-[#989898] hover:text-[#111111]">
-          <span className=" text-[14px] leading-[18px] font-[400]">Onboarding</span>
+          <span className=" text-[14px] leading-[18px] font-[400] cursor-pointer">Onboarding</span>
           <span className=" text-[14px] leading-[18px] font-[400]">18</span>
         </li>
         <li className="my-4 flex justify-between text-[#989898] hover:text-[#111111]">
-          <span className=" text-[14px] leading-[18px] font-[400]">E-commerce</span>
+          <span className=" text-[14px] leading-[18px] font-[400] cursor-pointer">E-commerce</span>
           <span className=" text-[14px] leading-[18px] font-[400]">9</span>
         </li>
         <li className="my-4 flex justify-between text-[#989898] hover:text-[#111111]">
-          <span className=" text-[14px] leading-[18px] font-[400]">Checkout</span>
+          <span className=" text-[14px] leading-[18px] font-[400] cursor-pointer">Checkout</span>
           <span className=" text-[14px] leading-[18px] font-[400]">10</span>
         </li>
         <li className="my-4 flex justify-between text-[#989898] hover:text-[#111111]">
-          <span className=" text-[14px] leading-[18px] font-[400]">Error</span>
+          <span className=" text-[14px] leading-[18px] font-[400] cursor-pointer">Error</span>
           <span className=" text-[14px] leading-[18px] font-[400]">16</span>
         </li>
       </ul>
